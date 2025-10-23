@@ -1,36 +1,28 @@
-# 🏥 Hospital Data Analysis Using SQL
+# Tata Data Visualization: Empowering Business with Effective Insights
 
-This project analyzes hospital performance metrics using PostgreSQL. It includes queries for patient volume, doctor availability, medical expenses, stay durations, and departmental efficiency. The goal is to extract actionable insights for healthcare operations and executive decision-making.
+This project was completed as part of the **Tata Consultancy Services Job Simulation** on Forage (October 2025). The simulation focused on using data visualization to support executive decision-making.
 
-##  Key Features
-- Total patients and doctors across hospitals
-- Top-performing departments by patient count
-- Medical expense analysis per hospital and per day
-- Longest patient stay identification
-- Location-wise patient distribution
-- Monthly expense trends
-- Departmental efficiency and stay duration
+## 🔍 Project Overview
+- Created data visualizations to uncover key business insights
+- Prepared strategic questions for a client meeting with senior leadership
+- Delivered visuals that supported data-driven decision-making for business growth
 
-##  Technologies Used
-- PostgreSQL
-- SQL
-- CSV data import
+##Tools Used
+- Power BI / Tableau (based on your project)
+- Excel / CSV data
+- Business storytelling techniques
 
-##  Files Included
-- `hospital_queries.sql` – All SQL queries used for analysis
-- `Hospital_Data.csv` – Sample dataset (optional)
-- `README.md` – Project overview and instructions
+##Key Skills Demonstrated
+- Data storytelling
+- Executive-level communication
+- Business insight generation
+- Dashboard design
 
-##  How to Run
-1. Create the table using the schema in `hospital_queries.sql`
-2. Import the CSV using the `COPY` command
-3. Run individual queries to explore insights
+##Files Included
+- `.pbix` or `.twbx` dashboard file
+- Sample visuals (screenshots)
+- Summary PDF or PPT (if available)
 
-##  Use Case
-This project is ideal for showcasing SQL skills in healthcare analytics, business intelligence, and data-driven reporting. It can be extended into dashboards or predictive models for strategic planning.
+---
 
-##  Author
-**Wakeel**  
-Location: Bengaluru, India  
-Focused on business intelligence, HR analytics, and executive-ready data storytelling.
-
+> ✅ This project reflects real-world client communication and visualization skills aligned with TCS expectations.
